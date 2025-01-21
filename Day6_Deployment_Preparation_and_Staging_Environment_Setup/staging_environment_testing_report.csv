@@ -1,0 +1,7 @@
+Test Case ID,Description,Steps,Expected Result,Actual Result,Status,Remarks
+TC001,Validate product listing,1. Open product page. 2. Verify products are displayed.,Products should be listed correctly on the page.,Products displayed correctly,Pass,No issues found
+TC002,Test API error handling,1. Disconnect API. 2. Refresh page.,Fallback message should be displayed indicating API error.,Fallback message shown,Pass,Handled gracefully
+TC003,Check cart functionality,1. Add item to cart. 2. Verify cart updates.,Cart should reflect the added item and quantity.,Cart updates correctly,Pass,Works as expected
+TC004,Test responsiveness layout,1. Resize browser window. 2. Check if the layout adjusts properly.,Layout should adjust and remain responsive across different screen sizes.,Layout adjusts properly,Pass,Responsive verified
+TC005,Test performance (Lighthouse) test,1. Run performance test using Lighthouse tool.,Site should meet performance benchmarks like load time under 3 seconds.,Performance is within expected range,Pass,No performance issues
+TC006,Test security for input fields,1. Try entering special characters in input fields.,System should validate input and reject SQL injection attempts.,"Input rejected, no errors",Pass,No vulnerabilities found
