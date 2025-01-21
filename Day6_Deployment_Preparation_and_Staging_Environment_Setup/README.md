@@ -10,7 +10,7 @@ The marketplace project is a modern, customer-facing application built using **N
 ## **Deployment Setup**
 
 ### **1. Hosting Platform Selection**
-We chose **Vercel** for hosting due to its seamless integration with Next.js projects, automatic deployments, and environment variable management.
+I choose **Vercel** for hosting because of its seamless integration with Next.js projects, automatic deployments, and efficient environment variable management
 
 - **Platform**: [Vercel](https://vercel.com)
 - **GitHub Repository**: https://github.com/Alishba-Moin/NEXT-JS_Figma-Hackathon
@@ -22,7 +22,9 @@ We chose **Vercel** for hosting due to its seamless integration with Next.js pro
 Environment variables required for the project were securely configured in the Vercel dashboard:
 
 NEXT_PUBLIC_SANITY_PROJECT_ID=your_project_id
+
 NEXT_PUBLIC_SANITY_DATASET=production
+
 API_KEY=your_api_key
 
 
