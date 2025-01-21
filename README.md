@@ -1,4 +1,4 @@
-# README: 6-Day Journey of Building an Online Marketplace
+#  6-Days Journey of Building an Online Marketplace
 
 Welcome to the documentation of my exciting 6-day journey of creating an **Online Marketplace** from scratch! This file outlines the daily progress, challenges, and achievements of this project.
 
