@@ -164,9 +164,7 @@ Welcome to the documentation of my exciting 6-day journey of creating an **Onlin
 
    - Conducted Lighthouse tests to optimize performance further.
 
-### Staging Link:
 
-[https://next-js-figma-hackathon.vercel.app](https://next-js-figma-hackathon.vercel.app)
 
 
 

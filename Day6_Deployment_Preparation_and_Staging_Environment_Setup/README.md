@@ -13,7 +13,7 @@ The marketplace project is a modern, customer-facing application built using **N
 I choose **Vercel** for hosting because of its seamless integration with Next.js projects, automatic deployments, and efficient environment variable management
 
 - **Platform**: [Vercel](https://vercel.com)
-- **GitHub Repository**: https://github.com/Alishba-Moin/NEXT-JS_Figma-Hackathon
+- **GitHub Repository**: https://github.com/ramshan00/Ramsha-Hackathon.git
 
 ### **2. GitHub Repository Integration**
 - The repository was linked to the Vercel project for continuous integration and deployment.
@@ -38,7 +38,7 @@ API_KEY=your_api_key
 
 ### **Step 2: Deploy to Staging Environment**
 - Successfully deployed the application to the staging environment.
-- **URL**: https://next-js-figma-hackathon.vercel.app/
+- **URL**:https://ramsha-hackathon-avion.vercel.app/
 
 ### **Step 3: Validate Deployment**
 - Verified the app functionality in the staging environment.
